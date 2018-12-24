@@ -1,1 +1,2 @@
 #This line I've been added via project
+#This second line I've been added manually by cloning submodule
